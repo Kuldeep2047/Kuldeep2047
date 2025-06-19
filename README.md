@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm an enthusiastic Computer Science Engineering s
 - 📘 Currently learning: Java, Data Structures & Algorithms  
 - 💡 I love building: Projects that solve real-world problems  
 - 🔍 I enjoy: Open Source, Competitive Programming, and Learning New Tech  
-- 🎯 Goal: To become a Software Engineer @Google  
+- 🎯 Goal: To become a Software Engineer
 
 ---
 
