@@ -16,8 +16,9 @@ Welcome to my GitHub profile! I'm an enthusiastic Computer Science Engineering s
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kuldeep-garg-238b302a6/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codingsurface/)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kuldeep-garg-238b302a6/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codingsurface/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kuldeepgarg2027@gmail.com)
 
 ---
@@ -45,7 +46,7 @@ Welcome to my GitHub profile! I'm an enthusiastic Computer Science Engineering s
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Kuldeep2047&theme=radical&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kuldeep2047&theme=radical&hide_border=false)](https://github.com/Kuldeep2047)
 
 ---
 
