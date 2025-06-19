@@ -44,12 +44,6 @@ Welcome to my GitHub profile! I'm an enthusiastic Computer Science Engineering s
 
 ---
 
-## 🔥 GitHub Streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kuldeep2047&theme=radical&hide_border=false)](https://github.com/Kuldeep2047)
-
----
-
 ## 💌 Let's Connect
 
 If you’d like to collaborate or just say hi, feel free to reach out!  
