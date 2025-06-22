@@ -37,6 +37,10 @@ Welcome to my GitHub profile! I'm an enthusiastic Computer Science Engineering s
 
 ---
 
+![Profile views](https://komarev.com/ghpvc/?username=Kuldeep2047&color=blue&style=flat)
+
+---
+
 ## 📊 Kuldeep Garg's GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kuldeep2047&show_icons=true&theme=radical&count_private=true)
