@@ -1,9 +1,9 @@
-<h1 align="center">✨ Hi, I'm Kuldeep Garg! 👋</h1>
-
-<h3 align="center">💡 Problem Solver | 🚀 Computer Science Engineer | 🔥 Continuous Learner</h3>
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec7,100:a4fffb&height=220&section=header&text=Kuldeep%20Garg&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7005E&center=true&vCenter=true&width=500&lines=💡+Problem+Solver;🚀+Computer+Science+Engineer;🔥+Future+Software+Engineer;📚+Continuous+Learner" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7005E&center=true&vCenter=true&width=600&lines=⚡+Problem+Solver;🚀+Computer+Science+Engineer;🔥+Future+Software+Engineer;📚+Continuous+Learner" alt="Typing Animation" />
 </h3>
 
 ---
@@ -16,22 +16,6 @@
 - 💡 **I love building:** Projects that solve real-world problems  
 - 🌐 **I enjoy:** Open Source, Competitive Programming, and Exploring New Tech  
 - 🎯 **Goal:** To become a Software Engineer  
-
----
-
-## 🌍 Connect With Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kuldeep-garg-238b302a6/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/codingsurface/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:kuldeepgarg2027@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
 ---
 
@@ -55,6 +39,22 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kuldeep2047&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+</p>
+
+---
+
+## 🌍 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kuldeep-garg-238b302a6/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/codingsurface/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:kuldeepgarg2027@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
