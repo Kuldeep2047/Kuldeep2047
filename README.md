@@ -1,5 +1,6 @@
-<h1 align="center">✨ Hi, I'm Kuldeep Garg! 👋</h1>
-<h3 align="center">🚀 Computer Science Engineer | Problem Solver | Continuous Learner</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7005E&center=true&vCenter=true&width=550&lines=✨+Hi%2C+I'm+Kuldeep+Garg!+👋;🚀+Computer+Science+Engineer;💡+Problem+Solver+%7C+Continuous+Learner;🔥+Future+Software+Engineer" alt="Typing Animation" />
+</h1>
 
 ---
 
@@ -24,7 +25,7 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:kuldeepgarg2027@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -33,17 +34,7 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,c,mysql,mongodb,nodejs,express,react,git,github" />
 </p>
 
 ---
@@ -51,16 +42,22 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kuldeep2047&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kuldeep2047&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kuldeep2047&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kuldeep2047&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kuldeep2047&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 ---
 
-## 💌 Let's Connect
+## 💌 Let’s Connect!  
 
-If you’d like to collaborate or just say hi, feel free to reach out!  
-📧 [kuldeepgarg2027@gmail.com](mailto:kuldeepgarg2027@gmail.com)
+📧 [kuldeepgarg2027@gmail.com](mailto:kuldeepgarg2027@gmail.com)  
+💬 Open for collaborations & exciting projects 🚀  
+
+---
