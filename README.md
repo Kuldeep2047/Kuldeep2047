@@ -1,6 +1,10 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7005E&center=true&vCenter=true&width=550&lines=✨+Hi%2C+I'm+Kuldeep+Garg!+👋;🚀+Computer+Science+Engineer;💡+Problem+Solver+%7C+Continuous+Learner;🔥+Future+Software+Engineer" alt="Typing Animation" />
-</h1>
+<h1 align="center">✨ Hi, I'm Kuldeep Garg! 👋</h1>
+
+<h3 align="center">💡 Problem Solver | 🚀 Computer Science Engineer | 🔥 Continuous Learner</h3>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7005E&center=true&vCenter=true&width=500&lines=💡+Problem+Solver;🚀+Computer+Science+Engineer;🔥+Future+Software+Engineer;📚+Continuous+Learner" alt="Typing Animation" />
+</h3>
 
 ---
 
@@ -59,5 +63,3 @@
 
 📧 [kuldeepgarg2027@gmail.com](mailto:kuldeepgarg2027@gmail.com)  
 💬 Open for collaborations & exciting projects 🚀  
-
----
