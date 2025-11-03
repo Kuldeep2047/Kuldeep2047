@@ -1,79 +1,99 @@
-<!-- HEADER BANNER -->
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff758c,100:ff7eb3&height=120&section=header&text=✨%20Kuldeep%20Garg%20✨&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
-</h1>
+<!-- Modern GitHub Profile README -->
 
-<!-- ANIMATED INTRO -->
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=F7005E&center=true&vCenter=true&width=600&lines=⚡+Problem+Solver;🚀+Computer+Science+Engineer;📚+Continuous+Learner;🔥+Future+Software+Engineer" alt="Typing Animation" />
-</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4,5&height=200&section=header&text=Kuldeep%20Garg&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35" alt="Header Banner" />
+</div>
 
 ---
 
-## 👨‍💻 About Me  
-
-💡 Passionate about **coding, problem-solving, and building impactful projects**.  
-🚀 I enjoy **Web Development, DSA, and Competitive Programming**.  
-📚 Lifelong learner exploring **Java, Backend Development & System Design**.  
-
-🔭 **Current Focus**: Full Stack Web Development + Mastering DSA  
-🎯 **Goal**: To become a Skilled **Software Engineer**  
-🌍 **Fun fact**: I debug more than I code 😅  
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=⚡+Problem+Solver;🚀+Computer+Science+Engineer;📚+Continuous+Learner;🔥+Aspiring+Software+Engineer" alt="Typing Animation" />
+</div>
 
 ---
 
-## 🛠️ Tech Arsenal  
+## 🚀 About Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,nodejs,express,mongodb,mysql,c,git,github,vscode" />
-</p>
-
----
-
-## 🏆 GitHub Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kuldeep2047&theme=radical&margin-w=15&margin-h=15&column=7" />
-</p>
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kuldeep2047&show_icons=true&theme=radical&hide_border=false&count_private=true" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kuldeep2047&theme=radical&hide_border=false" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kuldeep2047&theme=react-dark&hide_border=true&area=true" />
-</p>
+<div align="center">
+  <p>
+    💡 Passionate about <strong>coding, problem-solving, and building impactful projects</strong>.<br>
+    🚀 I thrive in <strong>Web Development, DSA, and Competitive Programming</strong>.<br>
+    📚 Lifelong learner diving into <strong>Java, Backend Development & System Design</strong>.<br>
+    🔭 <strong>Current Focus</strong>: Full Stack Web Development + Mastering DSA<br>
+    🎯 <strong>Goal</strong>: To become a Skilled <strong>Software Engineer</strong><br>
+    🌍 <strong>Fun Fact</strong>: I debug more than I code 😅
+  </p>
+</div>
 
 ---
 
-## 🌍 Connect With Me  
+## 🛠️ Tech Stack
 
-<p align="center">
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,nodejs,express,mongodb,mysql,c,git,github,vscode&theme=dark" alt="Tech Stack" />
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kuldeep2047&theme=tokyonight&margin-w=15&margin-h=15&column=7&no-frame=true" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Kuldeep2047&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kuldeep2047&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🌟 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kuldeep2047&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
   <a href="https://www.linkedin.com/in/kuldeep-garg-238b302a6/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/codingsurface/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:kuldeepgarg2027@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</p>
+</div>
 
 ---
 
-## ✨ Fun Animation  
+## 🎉 Fun Zone
 
-<p align="center">
-  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="300px">
-  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" width="200px">
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="Coding GIF" />
+  <img src="https://media.giphy.com/media/3o7TKz9bX9v8z8z8z8/giphy.gif" width="200" alt="Rocket GIF" />
+</div>
 
 ---
 
-<h2 align="center">🔥 Thanks for visiting! Keep coding & solving 🚀</h2>
+<div align="center">
+  <h2>🔥 Thanks for visiting! Keep coding & solving 🚀</h2>
+  <p><em>Made with ❤️ by Kuldeep Garg</em></p>
+</div>
