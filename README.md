@@ -10,7 +10,7 @@
 
 ## 🌟 About Me
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Passionate+about+crafting+efficient+solutions+and+innovative+apps.;Exploring+the+world+of+Web+Dev,+DSA,+and+Competitive+Programming.;Lifelong+learner+in+Java,+Backend,+and+System+Design.;Current+Focus:+Full-Stack+Development+%26+Mastering+Algorithms.;Goal:+To+innovate+as+a+top-tier+Software+Engineer.;Fun+Fact:+I+turn+coffee+into+code+and+bugs+into+features!+☕🐛" alt="About Me Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Passionate+about+crafting+solutions+and+innovative+apps.;Exploring+the+world+of+Web+Dev,+DSA,+and+CP.;Lifelong+learner+in+Java,+Backend,+and+System+Design.;Focus:+Full-Stack+Development+%26+Mastering+Algorithms.;Goal:+To+innovate+as+a+top-tier+Software+Engineer.;Fun+Fact:+I+turn+coffee+into+code+and+bugs+into+features!+☕🐛" alt="About Me Animation" />
 </div>
 
 ---
